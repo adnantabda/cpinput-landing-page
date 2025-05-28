@@ -266,9 +266,11 @@ const HomePage = () => {
                             <a href="#features" className=" hover:text-primary px-3 py-2 text-sm font-medium">
                                 Features
                             </a>
+                            <a href="https://github.com/adnantabda/cpinput" to="_blank">
                             <button className="bg-primary hover:bg-primary-dark text-white px-4 py-2 rounded-md text-sm font-medium transition duration-300 transform hover:scale-105">
                                 Fork and Use
                             </button>
+                            </a>
                         </div>
                         <div className="md:hidden flex items-center">
                             <button
